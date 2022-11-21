@@ -12,7 +12,7 @@ Work with a partner to implement the following user story:
 
 Your web application should look like the following image once complete:
 
-![The updated page shows an emoji next to each link that takes you to a CSS file.](./images/01-selector-complete.png)
+![The updated page shows an emoji next to each link that takes you to a CSS file.](./Images/01-selector-complete.png)
 
 ### 💡 Hints
 
